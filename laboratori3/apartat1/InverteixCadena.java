@@ -1,4 +1,4 @@
-package laboratori3.apatat1;
+package laboratori3.apartat1;
 
 import java.util.Scanner;
 
